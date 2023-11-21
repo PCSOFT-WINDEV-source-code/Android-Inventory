@@ -1,0 +1,264 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Quantity
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Quantity
+ identifier : 0x286f720009d5c854
+ internal_properties : CAAAAAgAAABZyrHvFdwEyDLr63/XmnYjyUsZQglYysy+MI7J55jr/b8BD15wlFCJLlJP2NNFNi4eJX0j7lL0vGulcLYrAtXtKHddDhLg6nox8K2dm5uoS9/+5/rB42TI9LymUV1jafCvm/zQ5N2KKeg533gOXe9vPe5Xv1tcxIuIy/LkElCHXdDrBoO5Fgv5Gt9PoO2+7mbayy2QlGsguvzmwkhFxskL+1Szc/7XU1zMZPlFsPQhdKLy3TfLOBY1upOTBBaRYzZBxqyX9cN+A9gkVGHEX9Ed4plkkplvO6HldETXN2+94W5VZnYU66agtVjrew49pr3ntqXUorWAm/vjXL8ayedlJScr7tnt2s8KTTePA7POzqdapJvpsMqiZMw1+/UF6b0nrZWuHrHA9yAlLLznqN8bdoTuxwEJn/towYuX8Xy6njAvh9q2aaqtNIlrcuvoyNSHDsoPdJb6e+eur1RK38uqXjeQgsHRAVcnb0bzEr3Bprp7igjdbrvdaVSC5lqFDGnWO9bFmRDho8D8LMQazQEtJnoif71H6PxLRNR1AgMJ+6OM52dKGTRS674N21mt8h+OYQKoXfl7oauCO4MIff8G1/GaDW0im8J4IZOjVMIxD8d6SBp69mtnxSU1n0yEuUPkEqmtfaMND4NowbdkCZGbw9Z7p5KOWHizFbRpW7FgGd8v7PWHW+9hbFu6+KXs0L9GkWx87oItuYqMRDDNKdy/BNvDxrXH1iiazHNa3XnAE/athyq5tbMEFPe+auB05PV0RTEkbnRgr62wHxHK7Q==
+ properties :
+  width : 320
+  height : 455
+  heightMin : 480
+ controls :
+  -
+    name : EDT_Quantity
+    identifier : 0x286f720009d6c864
+    internal_properties : CAAAAAgAAACEiVOEoe7vtahOhpzphy7zwdlMa2Hc9YAULPQQpRPj/Kmbuu2BcMrAXdmde/dO3LtFipgz9yF1HAjqPSGceNQEz+4Ey5WnsIyOWwxoWIkFUX1Z05OPOwE6EpZc9nvaORSDSvAba3bqnsvzmOhUz5GT/BWuqUcNLwUSoALGZ/5Wb+0cjFAK5akJaxdOIcbO/rdzI0S7mQDTiAbQa1bJiL2sdHumj5g+zzQdLOP8uZmFaljjHelsYPhUQdVNThY1nmvcRPUscuV/QJRfUaXoTHEy3jgr/MkR8R/EzdC2vBszk0XsaFT8WFa/FoIv8HNd0E1JJCq1Hee/X7RYcjorbawCZHwWtQOGohzVfAlc1nMFvORyd10opzJtZHyMl4H5vwDL2K+yx0n960Vrjue2ovxK1F2GUOCZ7HjpihD+dcdprWkh5JTar0p14JWWgs/tU1LoQlxhVYg+s4hFRztYB00kTbg2i8H/JMF1xpDkAEfbAnSZSsioqQrUN5mm1Dfqd71llHb2wr8PXOwf0e4i+KWDezMJlzOxo74wGmwReML4qkBNksrkI5vs0mrPsmWvnnRXSpomCQtJn8i9f5V5boKgP9lZdAVfnrG6EN3x3No9ofwGv+GXD86JBA7wIIpGiP/GFOhXg62+HXy453G8BS6XpMvVaSioxbPjFe3TI/RbJul6n3+VBXNE0fy7+T18yQp1JrNWCny6JVNhElPFlP6usQYvPcU0mwHm73MmZIxzAbhzVKz9E4CHRuHPwpho04LR+cSy4T5G2fqoYA6hLnBcHnhRvmf8hrlsGZNz7cMYdiG/DFrxRqXSw68Gj8jTyq2VggQOGw6dMVuAAImGrvDbkO4RyTz0BmZi/eXXpmK+BdHNkGWAuvlbHWVW9GTlYs9ghtUBU8CAl7IItW/l4vJkPoSMe7wO74OjfZ5c7KEwlMe9QmkXDoDSYCiZfEhkWQvs+CqtP3VKgQdXC+st/eZk7XmfjtzgT8RWGg0fNcFdyP58baVWq+l4fTDIkYkxKfrHHHz2ttzki+0aMDLAJRvSpQzhYeSqPPVKloNwGLYOUCh6ocIFX6UHRu4=
+    properties :
+     x : 58
+     y : 50
+     width : 203
+     height : 80
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1+
+         MySelf = 1
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        type : 65792
+  -
+    name : BTN_Plus
+    identifier : 0x286f720009d7c864
+    internal_properties : CAAAAAgAAADl2MRX2r+qdrcj5VZA11Ey4Oj51kiRYhImblT131f3Puwj8qQvxzMGx+iqBPqvZwDZYn4p00Dzx1YkTJXHoWm32abMxJR9AVOe+emHXZv5VArmTajUkCr/KvkteTZm3iuhZ9nBeNUcURYJVNP7Pj1fCm4zK97EWk4xW4CxONd/3Y9U950FYs5K4dph9aIZZ/eRD9KJ6MRLQshmJu7PjbNXPgxjWBcEQU7tHejR7zqc7wU0HDgZj5VqEhP4T7v8WB9oAOXq1DrwJt1LvebJynfMqsW4WFku2/p45f2DfVJ2bwwcFtc2UOoJjmJbAQyAvDsRGSCe6gJCmp4zuZ/Q0ZNNEfIt6NTJlYkNvtCxuyH+0YAGJ79Rx4KW8/j4ehICaYAt05MoJN/iBw221pFrxlRpxL/L27J8Ga2Tp6hPym715OrM70nY/syS4Cd1jjD3LYEArsE9H57BKZMyxXX1HEC+kiswyX3ym7tFBOO6dt+jNtF3l7QGsPWykKs+Oc6WX0uzj6CUW0RH6PDkIb9wGqThYKGf/S0V1Jum1EvJL1pR/8L9gv6hkSPu9DT01IDn/xnF0PkTI7e8Q0jJFnZNKEvPKjBDbFEYucqlMlWJ9voqGkgdjAPg9L/NfnAxGMmqWzySYOI9EU9yGBnlCHffHNT19vT3QIteZ6r5RTf1JS5KsHC9800Ef9ZMVMCk9VwVlDhISlkeCYdbMCM4yKb32KUR3NZ3TyQMN9R6Q344FZMzhvTm4JdVw0LvXE7l+RD76d1f+XxJW/YwmIHUTwPKrbhvpLi3advqF4uH41qQNmHXvSTtXLCeEXAf1fQWsaKeTJ077c8w9DCfjGHQL6U4HripjYXN36xuQgFXtuVRV417tr5CbgOma5C/hhz87QG+7F76v5oJ1D5yj1lmdIeaq0QAsq1YxjHQ9kfv5npJfRtZT9nOQgEOt/w=
+    properties :
+     x : 64
+     y : 137
+     width : 80
+     height : 80
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         EDT_Quantity = EDT_Quantity + 1
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAAAQ38y6530+WEP+867S9yx/W0CBfRQFhK5ZAzejVc+2T3foPDlNDReP7rob+bXirxTXgG+/I0319P9QYm3foIP7aFM6Z6qecxAFaYKgBcAp3T6FFD31XeUr5/1vPrzvLuFSGUvfZo06wwDpAQ==
+        code : |1+
+         
+         // Starts the automatic timer for incrementing the quantity
+         nTimerIncrement = TimerSys(Increment,15)
+        type : 66049
+      -
+        code : |1-
+         // Stop the automatic timer
+         IF nTimerIncrement <> 0 THEN
+         	EndTimerSys(nTimerIncrement)
+         	nTimerIncrement = 0
+         END
+         
+         ScreenFirst(BTN_Validate)
+        type : 66050
+  -
+    name : BTN_Minus
+    identifier : 0x286f720009d8c864
+    internal_properties : CAAAAAgAAAAnfCJX0AFvFOZruItNr+yuZE8DO9dIUraHs2BCC6v8IX9+qiiNziL455TFv+uvclTqgm+Zc7ARk9rMyRjvIbjejszOBpcOlZFYLVHCbtE/CYHtr0kSpLg7MKWtjbWzbEURW7OyI4h6T1JzwWoVbtCVgaVof5uEPw6NJ9I5ocCHx6m6tIGg+wFdPwNd7j2jIaC7nvwvC6XeFhCyuoz7d2bDIDDdXfO4IQcZ52/UOrljeNABBwK9lWYTpsK1bKrF+jr6S6R7JcP/mLLQa/PO5NtOtbE31Zl6+TLuv8FETO3zap5SulmvFCXR8Yvi481s28zeSdTssKnuNfKNyLsJYFNFEoQX9nJnukoRLzpRcuvdR2IYnBbF7qJ6EGAYc1FLN7NMC7rpj3Jss5yFoV6VlBK95ErCcIQcb/jkWBEj4DPPggfhMiJTesSZsTfRAnSi4z5J/Hul6l/Tk3Lj/i2osIPTPgKTdj7weiw37jl8hWlxP6AdrJ1TObj2JpWo3BkoAiT/85Q2mgdQuhaUeWq2E4FYBMrcmI6/Y4FkGsRdrcBL47tRAQM6Q44kzVAOG9otAXZ/Yp4/kF1HEWBYuFIZEpsf2HnUoTRSgwcXHPFvSLsAzDlg6FZ90rgWfuvXU8MM5Tmp4OCKySzisl8gsPD0qW2vwzWIuiiyxcG1oH+zIF2htFtxbEBr/lgnamFoXoKgoHOK4GEIbIKhuU8a48PgeskqCj64n7b8cZ8BwpvQTopQImP1JrD2d/IAsRbb3V6uZ12xdloEFg+2JN3xHmncfTx+EvfKXhV3SGMlLdv6ooWaSsh2BGKJanYUNJotCSjebBc/0yuBQ375Os76WkaNTOFXFOm7RYfcYzr9IualJ5Vy/oV5teWDllW49gjvZc55RwgiYNlJLvcVYX14I87z4doQpcSt+s3/fmD7bCRevbtcTzcwogEUh2hjF9umh5Tz
+    properties :
+     x : 181
+     y : 137
+     width : 80
+     height : 80
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         EDT_Quantity = EDT_Quantity - 1
+        type : 18
+      -
+        type : 161
+        enabled : false
+      -
+        code : |1-
+         
+        type : 66048
+      -
+        internal_properties : CAAAAAgAAABMi0hWvakGaEcmO4bu80Rbbzhd8VAh3O7lu/eLaVv+AxvosD1h2fcXktLTqfFet0gz6BO7j9+jokE2lH8parHVNoHkcdyAQV6/F9RqzxpPp0xrLlenF4vZmSMBoN75LNPID03RcL9m73yVvQ==
+        code : |1+
+         
+         // Start the automatic timer for decrementing
+         nTimerDecrement = TimerSys(Decrement, 15)
+        type : 66049
+      -
+        code : |1-
+         // Stop the automatic timer
+         IF nTimerDecrement <> 0 THEN
+         	EndTimerSys(nTimerDecrement)
+         	nTimerDecrement = 0
+         END
+         
+         
+         ScreenFirst(BTN_Validate)
+        type : 66050
+  -
+    name : STC_ProductDesignation
+    identifier : 0x286f720009d9c864
+    internal_properties : CAAAAAgAAADDqo7eiN+oFS7GvrN+kVt2mvKG5yBe9th+QIjEjDlV2J58RGCoLRAa/JOO4ipQ5CRpU2qYMrovv26F6S4ZL5kiUa4pdLzaPxaruS/cpD1FznXVfZucpZKMnITZyvWYEX7ewb5v0CTM+NjBo+suZjQu/GvsWZAP9qPFaCTaPJnabC47uXcMqvSvscNKMfNtPz6g8Y0cZxtnNTHGZ9wJ+fqIR6Zvf6Bu5LKbeMPvo3MVt8iQVJSLSGUjdmX6HW3aPhQpRkbltZj32icbMfAp0GaQedAmfDdiNcAimuIkk+inLzlR+q20+iexaTJgMQm82ZyN9+2ulXdqItUOGwYcXAtBxGOZIeMZeGCGKlii2dXxmAQAUfd87bZEvISai9qZe8bSnN5bVvlV4WOlxLdrSxeNG9xEvsNm6A4Qru/cgeFlXoRjdbwRYxWRDoAXdWAijoP2Jorey6+QWukIb1K0l04Te51e0snWHAmWBN4jtrA9yg6Ek9AbS5IBOqDMxrLKVQwIqyoTGDFsDXoW0ml6Bn/vwgzgTxrNsPYb/lKhWM40
+    properties :
+     x : 2
+     y : 7
+     width : 315
+     height : 42
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Validate
+    identifier : 0x286f720009dac864
+    internal_properties : CAAAAAgAAACeTf/da0eVzzuRZrUuZbyPJ+7UtI3a8kaga8cw7iIlOUMq7yIrzalrKMd/DDz18D5EbU2iNqXbIPJ45jWjdjG15c7E/+NP5PvNPMg/S8eBnJXm/AvQh5UH06XEED/eBm4cgpS8THmJjUdoaMgWF9qPzSKNHTwvrHoBh8Hmnk5QgNlPRpP+vRSMqB3bGpY6PrmMZ1x1ze4Ly9oqTPHz9J8Zj1A63qXgpv26tg0Wq8t8uFch9OPkJTX16c67rESMzNjQNgCuF6KRD9D+MwWVcgTQKZSg8xOW1tWytRSOsO7OSeo2Nncdbxbh6A3X3zWYe/QzVdI2Ggjdb9Nq/QKl2a7d7SLVKCEoE7dJJbPppGJAp92Cml2aFqPB7Ts5dEQj7YcxkrembK8vi3j/aZjnbkXdCfH8M6T2v8SAttaKHc44x14KVQXD7jcDJdQcpuuqFhZ/sKg+h5CadEmxJXTlo+ZUmoZcrvX1uvwaVcTuqHkkv7YyLlWfxvE9wLc/h+w95eT48HE6YCE6E2pL9bX/g2+vy9o6ML9mlATKw6pSPJpqltp9239YFnnL+bR8W3/M+RdgTAR6x9pWe52P2TNmxIcEgQIwDZ5tlNGllBFXh7T62+hRfwXtrqmtOeW2+n679ILdJEMnA51lvc8OymDTocrInkSP9lBdUD5vmFfgA1EmseOhIT9RPN9Ea7RiXS5TZ3eq/6JypSBd8VGv5o78pEpj3Rag81JJtsfUI4lby2qaGzHmAO8uULKm0ejSOwhFlXzP7JYYMIRvPC2w17WUt4lCrzFPbTde3Z6rH8DRs9jXs+sEyoTRna6cfrA1rz02QX4tKH6xYSXApBGVZN6qV/RUffZgG+RHk5NDLOvynCslg7uBxScLyYQTVulhqPuRMnUOwL9bxPg8+1GhHwTRMrrTlocFqnnZcDYNjEKO5HDOgrOuXhmUQIuoENLT+Gar8Gc9kjDEX3g=
+    properties :
+     x : 64
+     y : 236
+     width : 197
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Update the database
+         PRODUCT.QtyStocks = EDT_Quantity
+         HModify(PRODUCT)
+         
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x26926d92076a01d1
+  internal_properties : CAAAAAgAAABO+xswJfHDwsVzsumEQ0nosxvmCdPRVVeKjR7TX7HWd0qIojTEm70B6FyOh4cQQPrmpV/X1Z5V4WjYMAsA92pgdGZHzKBSm96Ah+l63foxVQa8n5Amkz261xNQOAx6CncIfm1xba1F0LHB3gn+wJdgqfxVVmSkhR57ZSSu73y/u6l1QkXsU/pbNWkYJifButjeEYeqEGoQul2Ufzbcu1162gy3+VyWHf0WwAQx9MQhMZmuYsOZpcrr9skgob5lKtZoyG5IT2IIeO/VZveQXT5cchhMNMaHI82U7KH8ue4=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADN8n+tRKiWflSnBdWUQDCD8WeavTVpOLwMvkboo13ZXwE+UxHGOPtfmSm+rfTfTXSiTuaB3th/+7suXDG0MnIsDfcQciksJDjUyGASm4SMk5k6CicZCpf604SM
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACxsZqp1uV1Ga2uEZFYQZZIDzA8spP/OLUuVSZfFZrzqKv+IUTOPHr2dYcTgtNfBgSH0xYtKykeMXpVb12K4rspY/3vAtW9Gg==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABDNRqB7cu3hk8cDwpkr0DJI738DIjN03sf0vOAWIWv/wFsLtjD4NF9OHPzxMhmLT732mog4LQqzFa14NXoaBZs5Rms0+3EwKC8ppq0nmpQosPxsIsiA05PmMDFnJ95z3xNHZ9pChzGKiyOv+Q=
+     code : |1+
+      PROCEDURE WIN_Quantity()
+      
+      //For managing the timers used to increment and decrement the quantity
+      nTimerIncrement, nTimerDecrement are int
+      
+   -
+     code : |1-
+      
+      FileToScreen()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+   -
+     type : 66048
+  procedures :
+   -
+     name : Increment
+     procedure_id : 1760751323655817300
+     type_code : 14
+     code : |1-
+      // Syntax:
+      //Increment ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Increment()
+      
+      EDT_Quantity = EDT_Quantity + 1
+     type : 458752
+   -
+     name : Decrement
+     internal_properties : CAAAAAgAAACiojTuH1I/m5CnGaOaqeDsGwFL+uUukMq0/P1jfZe2F+8o/Lm9padPbhqL8cXit2RHeAfnWynZUDPMLpkzTFcf9N+m0yYa1+xpRR6MKbxtQXgSokFvArkOuPN70wlCj7luNllklNJ31o97kw==
+     procedure_id : 1760751323655882836
+     type_code : 14
+     code : |1+
+      // Syntax:
+      //Decrement ()
+      //
+      // Parameters:
+      //	None
+      // Return value:
+      // 	None
+      
+      PROCEDURE Decrement()
+      
+      IF EDT_Quantity > 0 THEN
+      	EDT_Quantity = EDT_Quantity - 1
+      END
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenQuantité
+resources :
+ string_res :
+  identifier : 0x106c35b00006751c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

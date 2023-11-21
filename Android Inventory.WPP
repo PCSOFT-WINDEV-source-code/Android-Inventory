@@ -1,0 +1,172 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Android Inventory
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Android application
+    internal_properties : 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
+    configuration_id : 2615182135758593661
+    type : 15
+    generation_directory : .\Exe\Android Application
+    version : {}
+    language : 2
+ elements :
+  identifier : 0x4ac4c670000fd04c
+  elements :
+   -
+     name : WIN_Quantity
+     identifier : 0x406c35cd0000e73f
+     internal_properties : CAAAAAgAAABcOrTg34SsvwtKyNtFecqxZhm1dcpqqPuOP3HMHuIq3hIomJtlkxb4WM/JN//xiX9JyQ==
+     physical_name : .\WIN_Quantity.wpw
+     type : 2
+   -
+     name : WIN_CreateProductForm
+     identifier : 0x4554c3f40000aeef
+     internal_properties : CAAAAAgAAADQLggUk8hge8cG1EchpmbVhjtVVWkscmmOH4JEwkNJ/zXJOwgJN7IUpJsF87Mt1cs1PQ==
+     physical_name : .\WIN_CreateProductForm.wpw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x406af7df0001157b
+     internal_properties : CAAAAAgAAADFQS1xzuvD3Orp43Is32eeYzJq4tsR7h+Om6lWNMzOCjIykBP+Or8jt25oUNAA+OjQUA==
+     physical_name : .\WIN_Main.wpw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : .\Description.gif
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : "D:\\US\\Android Inventory\\Exe\\Application Android\\AndroidInventory.db"
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : "D:\\US\\Android Inventory\\Exe\\Application Android\\PRODUCT.FIC"
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : "D:\\US\\Android Inventory\\Exe\\Application Android\\PRODUCT.ndx"
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : "D:\\US\\Android Inventory\\Exe\\Application Android\\PRODUCT.mmo"
+     configurations :
+      -
+        internal_properties : CAAAAAgAAAD8s1gpoAka2wWEdhpfRA==
+        configuration_id : 2615182135758593661
+        excluded : true
+   -
+     physical_name : .\Exe\Android Application\PRODUCT.FIC
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 2615182135758593661
+   -
+     physical_name : .\Exe\Android Application\PRODUCT.ndx
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 2615182135758593661
+   -
+     physical_name : .\Exe\Android Application\PRODUCT.mmo
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 2615182135758593661
+   -
+     physical_name : .\Exe\Android Application\AndroidInventory.db
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 2615182135758593661
+  analysis : .\Android Inventory.ana\Android Inventory.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ languages :
+  - en-GB
+ wd_style_sheet : .\Pocket Inventory.sty
+ wb_style_sheet : .\Pocket Inventory.wws
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAA9c1c6fZD9aPOsxXtBI1sYEzSlKPmzMaBrs80rxhTs/blsadUzL+Mb2v2HNus5LyvUXUtZ2pyO/0oNRLMhlPJx
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      
+      
+      //
+      // For a connection to a SQLite database
+      // //CONSTANT 
+      //	cstConnectionName = "MyConnection_SQLite"
+      //END
+      
+      //
+      //if InAndroidEmulatorMode() = false and InAndroidSimulatorMode() = false then
+      //	fExtraicResource("AndroidInventory.db", CompleteDir(fDataDir()) + "AndroidInventory.db") 
+      //end	
+      //
+      ////Describe the SQLite connection for an execution on the Android device
+      //HDescribeConnection(cstConnectionName,"","","AndroidInventory.db","",hNativeAccessSQLite,hOReadWrite)
+      //HChangeConnection("*",cstConnectionName)
+      //HCreationIfNotFound("*")
+      
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Android application
+     identifier : 0x4f1d83d50017a1da
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
